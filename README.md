@@ -29,3 +29,6 @@ wtv-blazars-names.xls
   
 wtv-blazars-names.csv
 - Same content as the .xls version, but in comma-separated format for easier reading by python (and other) scripts
+
+expMap/
+- Directory containing the exposure maps, corresponding to each block entry in the results file.
